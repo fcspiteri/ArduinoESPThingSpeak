@@ -9,7 +9,7 @@ int softTX = 5;	// TX pin for software serial
 int softRX = 6;	// RX pin for software serial
 
 // Thingspeak server info
-String apiKey = "BFS3T0VKOERVOU2K";
+String apiKey = "YOUR_API_KEY";
 String field1 = "field1";
 String thingServerIP = "184.106.153.149"; //"184.106.153.149"; // thingspeak IP address
 String thingServerPort = "80";	// thinkgspeak server port
